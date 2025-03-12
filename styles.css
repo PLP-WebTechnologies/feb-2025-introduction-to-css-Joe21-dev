@@ -1,0 +1,16 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    color:blue;
+    padding: 25px;
+}
+.main{
+    border: 2px solid black;
+    width: fit-content;
+    border-radius: 25px;
+    margin: 15px;
+}
+#image{
+    border-radius: 25px;
+}
